@@ -25,7 +25,7 @@ This dashboard helps address these questions, enabling data-driven decisions to 
 - **Vehicle Type Analysis**: Booking volume, revenue, and distance metrics
 
 ## 📁 Files
-- `ola.pdf`: Contains screenshots and summaries of the Power BI dashboard
+- `ola.pdf`: Contains screenshots and the Power BI dashboard
 
 ## 🔗 Connect
 Feel free to reach out or explore more projects on my profile!
